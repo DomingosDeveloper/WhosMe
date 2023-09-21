@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @DomingosDeveloper
-- 👀 I’m interested in ... Pyhton, SQL, Java, C#, C, data security and clouding
-- 🌱 I’m currently learning ... computer science 
-- 💞️ I’m looking to collaborate on ... whatever i could
-- 📫 How to reach me ... right from this social media
+Currently studying Java POO and PL/SQL.
+Let me have a chance.
+From Brazil, made in São Paulo.
